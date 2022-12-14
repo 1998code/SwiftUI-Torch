@@ -14,12 +14,8 @@ func toggleTorch(on: Bool) {
     if device.hasTorch {
         do {
             try device.lockForConfiguration()
-
-            if on == true {
-                device.torchMode = .on
-            } else {
-                device.torchMode = .off
-            }
+            
+            device.torchMode = on ? .on : .off
 
             device.unlockForConfiguration()
         } catch {
