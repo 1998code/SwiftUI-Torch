@@ -7,6 +7,6 @@ A Torch made with SwiftUI.
 https://medium.com/gitconnected/how-to-create-a-simple-torch-light-app-with-swiftui-aa921124e65e
 
 ### Preview
-![image](https://user-images.githubusercontent.com/54872601/210149786-28f656ac-22fa-4c65-9ab3-d6e121035a3d.png)
+<img src="https://miro.medium.com/max/420/1*U9xre3k0TVLubpF-PiViNA.gif" />
 
-![image](https://user-images.githubusercontent.com/54872601/210149788-21b50b8a-016c-4397-86d0-55c856965ea0.png)
+<img src="https://miro.medium.com/max/1400/1*L_FmCAAiJpBCnt0xzKSwCA.gif" />
